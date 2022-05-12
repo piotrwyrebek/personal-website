@@ -1,0 +1,15 @@
+1. imgs?
+
+    html
+2. index.html into separate pages
+
+    css
+3. style.css into separate styles
+4. rewrite color names to blue/dark/white 
+    define rest of the used colors 
+5. header - bigger logo?
+6. .class1 .class2 <-> .class1 > .class2
+7. sticky:hover missing
+
+    js
+7. combine sticky & goTop function
